@@ -24,6 +24,7 @@ label.field {
     color:#444;
 }
 
+
 label.field-list {
     text-align: right;
     font-weight:lighter;
@@ -57,7 +58,9 @@ input.field-300
     padding:2px 0;
 }
 
-
+.form-group {
+    margin-left:100px;
+}
 select.field-300
 {
     width:300px;

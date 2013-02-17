@@ -33,10 +33,13 @@
                 <p><label class="field" for="name">Your Name</label><input type="text" class="field-300" name="name"/></p>
                 <p><label class="field" for="email">Your Email</label><input type="text" class="field-300" name="email"/></p>
                 <p><label class="field" for=""></label><input type="text" class="field-300" name=""/></p>
-                <p><label class="field" for="US-SoEa">Where do you do most of your diving?</label>
+                <p>
+                <div class="form-group"">
+                     <label class="field" for="US-SoEa">Where do you do most of your diving?</label>
                     <span class="clickfields"><input type="checkbox" name="US-SoEa" value=""/> South Eastern US</span>
                     <span class="clickfields"><input type="checkbox" name="US-West" value="US-West"/>West Coast US</span>
                     <span class="clickfields"><input type="checkbox" name="US-Inland" value="US-Inlind"/>Inlandt US</span>
+                </div>
                 </p>
                 <p>
                     <label class="field" for="howoften">How often do you dive?</label>
